@@ -1,8 +1,9 @@
+import CounterApp from "./CounterApp";
 
 function App() {
   return (
     <div >
-      <h1>HOLA MUNDO cambio 2</h1>
+      <CounterApp/>
     </div>
   );
 }
