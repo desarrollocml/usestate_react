@@ -1,10 +1,14 @@
 import CounterApp from "./CounterApp";
+import ProductApp from "./ProductApp";
+import ShoppingCart from "./ShoppingCart";
 
 function App() {
   return (
-    <div >
-      <CounterApp/>
-    </div>
+    < >
+     {/* <CounterApp/> */}
+      {/* <ProductApp></ProductApp> */}
+      <ShoppingCart></ShoppingCart>
+    </>
   );
 }
 
